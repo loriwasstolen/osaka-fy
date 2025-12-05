@@ -25,9 +25,9 @@ It replaces images, text, titles, and icons with the chaotic energy of everyone'
     *   Violentmonkey or Greasemonkey also work.
 
 2.  **Install the Script**
-    *   Click on the `osaka-fy.user.js` file in this repository.
-    *   Click **Raw**.
-    *   Your extension should ask to install it. Click **Install**.
+    *   Click the link below to install the script directly:
+    *   **[Install osaka-fy.user.js](https://github.com/loriwasstolen/osaka-fy/releases/download/release/osaka-fy.user.js)**
+    *   Your extension should automatically ask to install it. Click **Install**.
 
 3.  **Sata Andagi**
     *   Refresh any webpage and enjoy the chaos.
